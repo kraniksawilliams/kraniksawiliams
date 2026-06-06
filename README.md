@@ -236,16 +236,6 @@ print(me)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kraniksawilliams&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/kraniksawilliams)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💜 Thanks for visiting! Let's connect and build something amazing.
