@@ -191,13 +191,12 @@ print(me)
 
 ## 📊 GitHub Analytics
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kraniksawilliams&show_icons=true&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=kraniksawilliams&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraniksawilliams&layout=compact&theme=tokyonight" />
-</p>
+
 > ⚠️ *Stats cards populate automatically once your GitHub repos are public and have code pushed to them.*
 
 ---
