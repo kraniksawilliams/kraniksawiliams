@@ -6,7 +6,7 @@
 <!-- ══ PROFILE IMAGE ══ -->
 <br/>
 <img src="https://raw.githubusercontent.com/kraniksawilliams/kraniksawilliams/main/profile.png" width="180px" style="border-radius:50%;border:3px solid #a855f7;" alt="Kraniksa Williams"/>
-
+  
 <br/><br/>
 
 <!-- ══ TYPING ANIMATION ══ -->
@@ -191,17 +191,13 @@ print(me)
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kraniksawilliams&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=kraniksawilliams&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=94a3b8&border_radius=12" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kraniksawilliams&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideLabels=94a3b8&dates=64748b&border_radius=12" width="49%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kraniksawilliams&theme=tokyonight" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraniksawilliams&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=94a3b8&border_radius=12&langs_count=8" width="40%" alt="Top Languages"/>
-
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraniksawilliams&layout=compact&theme=tokyonight" />
+</p>
 > ⚠️ *Stats cards populate automatically once your GitHub repos are public and have code pushed to them.*
 
 ---
